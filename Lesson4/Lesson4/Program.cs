@@ -156,3 +156,4 @@ int perimetr;
 GetRectangleData(10, 20, out area, out perimetr);
 Console.WriteLine($"Площадь прямоугольника: {area}");
 Console.WriteLine($"Периметр прямоугольника: {perimetr}");
+//checked
